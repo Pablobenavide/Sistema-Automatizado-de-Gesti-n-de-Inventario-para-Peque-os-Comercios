@@ -1,0 +1,1 @@
+# Sistema-Automatizado-de-Gesti-n-de-Inventario-para-Peque-os-Comercios
